@@ -28,7 +28,7 @@
         "symfony/options-resolver": "~2.3",
         "symfony/console": "~2.3",
         "symfony/process": "~2.3",
-        "zendframework/zendservice-apple-apns": "dev-add-safari-push-support",
+        "zendframework/zendservice-apple-apns": "^1.2.0",
         "zendframework/zendservice-google-gcm": "1.*",
         "doctrine/inflector": "~1.0"
     },
