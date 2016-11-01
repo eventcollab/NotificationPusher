@@ -18,7 +18,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/alalonde/ZendService_Apple_Apns"
+            "url": "https://github.com/eventcollab/ZendService_Apple_Apns"
         }
     ],
     "minimum-stability": "dev",
